@@ -1,4 +1,4 @@
-# ActiveRecord TODOs
+
 
 ## Before You Get Started
 
